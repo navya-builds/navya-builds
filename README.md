@@ -33,5 +33,5 @@ I enjoy understanding computing from first principles—from how pointers manage
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/navya-tiwari-998606397]
+- **LinkedIn:** [https://www.linkedin.com/in/navya-tiwari-998606397]
 - **LeetCode:** [https://leetcode.com/u/Navya_Tiwari/]
