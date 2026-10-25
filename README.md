@@ -6,11 +6,12 @@ I enjoy understanding computing from first principles—from how pointers manage
 
 ---
 
-### 🛠️ What I'm Currently Working On & Learning
-- 🏗️ **Project Development:** Building a **College Lost and Found** platform (`college-lost-and-found`) along with C++ application projects to solve real-world campus and system problems.
-- ⚡ **Data Structures & Algorithms:** Consistently practicing algorithmic problem-solving and memory management in **C++** across LeetCode and HackerRank.
-- ☕ **Object-Oriented Programming:** Mastering core OOP design principles and application building using **Java** and **C++**.
-- ☁️ **Systems & Cloud Exploration:** Studying **Operating Systems (OS)** internals, computer networking, and getting hands-on with **Python**, **Docker**, and **Cloud Infrastructure** fundamentals.
+## 🛠️ Currently Working On & Learning
+
+- 🏗️ **College Lost & Found** – full-stack campus web app (HTML, CSS, JavaScript, Node.js, Express, MongoDB Atlas, JWT auth, Cloudinary)
+- ⚡ **DSA:** Practicing problem-solving and memory management in C++ on LeetCode and HackerRank.
+- ☕ **OOP:** Strengthening core design principles with Java and C++.
+- ☁️ **Systems & Cloud:** Exploring OS internals, computer networking, Python, Docker, and cloud fundamentals.
 
 ---
 
